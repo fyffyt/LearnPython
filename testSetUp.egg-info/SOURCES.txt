@@ -1,5 +1,5 @@
 setup.py
-scripts/haha.py
+scripts/haha
 testSetUp.egg-info/PKG-INFO
 testSetUp.egg-info/SOURCES.txt
 testSetUp.egg-info/dependency_links.txt
